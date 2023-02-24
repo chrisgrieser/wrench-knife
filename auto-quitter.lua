@@ -9,7 +9,6 @@ Thresholds = {
 	Obsidian = 60,
 	Mimestream = 10,
 	BusyCal = 3,
-	Hammerspoon = 3, -- closes console, not Hammerspoon itself
 	Finder = 20, -- requires `defaults write com.apple.Finder QuitMenuItem 1`
 }
 
