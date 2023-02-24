@@ -39,11 +39,7 @@ end):start()
 local function quitter(app)
 	print("AutoQuitter: Quitting " .. app)
 	IdleApps[app] = nil
-	if app == "Hammerspoon" then
-		hs.closeConsole()
-	else
-		hs.application(app):kill()
-	end
+	hs.application(app):kill()
 end
 
 ---check apps regularly and quit if idle for longer than their thresholds
