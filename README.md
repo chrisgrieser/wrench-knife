@@ -16,4 +16,4 @@ Download the [Alfred Workflow](https://github.com/chrisgrieser/wrench-knife/blob
 3. Restart your IDE, you should now have completions and hover documentation for Hammerspoon.
 
 ## Example Configs
-- The Hammerspoon wiki contains [example configs](https://github.com/Hammerspoon/hammerspoon/wiki/Sample-Configurations).
+The Hammerspoon wiki contains several [example configs](https://github.com/Hammerspoon/hammerspoon/wiki/Sample-Configurations).
