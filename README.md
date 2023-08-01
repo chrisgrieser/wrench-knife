@@ -1,3 +1,8 @@
+# Archival Notice
+The content of this repo has been merged with [the awesome-hammerspoon repo](https://github.com/mystery-z/awesome-hammerspoon). All further contents will be added there.
+
+---
+
 # Wrench-Knife
 Collection of useful snippets for [Hammerspoon](http://www.hammerspoon.org/). Feel free to make PRs to add some snippets. 
 
